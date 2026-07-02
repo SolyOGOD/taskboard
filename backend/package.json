@@ -5,7 +5,7 @@
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js",
-    "lint": "eslint src/ index.js --ext .js"
+    "lint": "eslint src/ index.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
